@@ -1,7 +1,9 @@
 # Caelum - Modern Hava Durumu Uygulaması
 
 Caelum, Flutter ile geliştirilmiş modern ve kullanıcı dostu bir hava durumu uygulamasıdır. Latin dilinde "gökyüzü" anlamına gelen Caelum, kullanıcılara güncel hava durumu bilgilerini, tahminleri ve hava kalitesi verilerini sunar.
--Hüseyin Cevher Arslan
+
+
+-Hüseyin Cevher Arslan (132130049)
 -Umut Mert Of  (132230003)
 -Yasin Deniz Cüre (132230035)
 
