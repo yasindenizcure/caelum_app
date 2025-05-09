@@ -4,10 +4,6 @@ Caelum, Flutter ile geliştirilmiş modern ve kullanıcı dostu bir hava durumu 
 
 Video Linki: https://www.youtube.com/watch?v=4IpKEFBnpko
 
--Hüseyin Cevher Arslan (132130049)
--Umut Mert Of  (132230003)
--Yasin Deniz Cüre (132230035)
-
 ## Özellikler
 
 - 🌤️ Anlık hava durumu bilgileri
